@@ -1,0 +1,21 @@
+{
+  "id": 857,
+  "title": "Wildlife Observation Drone Terrain Following",
+  "repository_slug": "wildlife-observation-drone-terrain-following",
+  "category": "Drones",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "LoRa",
+  "components": [
+    "GPS module",
+    "LiDAR",
+    "barometer"
+  ],
+  "scope": "Build a drones prototype that uses GPS module, LiDAR, barometer to maintain clearance over changing terrain. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Terrain Following demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/wildlife-observation-drone-terrain-following/wildlife-observation-drone-terrain-following.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
